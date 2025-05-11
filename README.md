@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <rhttps://github.com/Dishant-Hooda/gta6-using-gsap.git>
+    git clone https://github.com/Dishant-Hooda/gta6-using-gsap.git
     ```
 
 2.  **Navigate to the project directory:**
